@@ -1,5 +1,5 @@
 # Tutorial-setting-up-email-on-your-Apache-server
-A step by step tutorial of seting up email on a Linux Apache VPS server. For beginners 
+A step by step tutorial of setting up email on a Linux Apache VPS server. For beginners 
 
 This tutorial covers email for one or more domains hosted on your Apache server. This tutorial follows on from https://github.com/verachell/tutorial-setup-linux-VPS-server-with-apache and https://github.com/verachell/Tutorial-hardening-your-apache-server and assumes you have carried out the steps in those tutorials.
 
