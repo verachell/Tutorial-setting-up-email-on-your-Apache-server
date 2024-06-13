@@ -13,4 +13,4 @@ This is just a guide. As the license says, I am not responsible for any damages,
 I have made a good faith effort to ensure sensible choices are made, but understand that the suggested defaults here may not be appropriate for your application or for the level of security you desire.
 
 ## Start the tutorial
-The tutorial is on this repository's wiki page at 
+The tutorial is on this repository's wiki page at https://github.com/verachell/Tutorial-setting-up-email-on-your-Apache-server/wiki 
